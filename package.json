@@ -1,0 +1,15 @@
+{
+    "type": "module",
+    "name": "@atomic-reactor/dirname",
+    "version": "1.0.6",
+    "description": "Module to avoid the dumb choice to get rid of __dirname and __filename in Node 18+",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Reactium LLC",
+    "license": "MIT",
+    "devDependencies": {
+        "prettier": "^2.8.8"
+    }
+}
